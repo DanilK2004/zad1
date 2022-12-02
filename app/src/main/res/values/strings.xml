@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zad1</string>
+    <string name="P_word">Password</string>
+    <string name="Regis">Registration</string>
+    <string name="username">Login</string>
+    <string name="Enter">Enter</string>
+    <string name="Spinner">Choose</string>
+</resources>
